@@ -1,4 +1,4 @@
-# localizer.py
+
 
 lang = "ru"  # Можно менять на "en"
 
